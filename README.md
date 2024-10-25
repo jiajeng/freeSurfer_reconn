@@ -13,6 +13,7 @@ recon-all -subjid ${SUBID} -i ${FILE} -all
 &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;&nbsp;&nbsp;&nbsp; `rh.white --> detect the white matter edge in right hemispheres`  
 &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;&nbsp;&nbsp;&nbsp; `lh.pial --> detect the grey matter edge in left hemispheres`  
 &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;&nbsp;&nbsp;&nbsp; `rh.pial --> detect the grey matter edge in right hemispheres`  
+![image](https://github.com/user-attachments/assets/b8af060a-e651-49a3-9a09-cb110a19201d)
 
 
 
